@@ -1,5 +1,9 @@
 ## Utilizing a LINE bot to make a reply same msg bot ##
 
+<figure><center><img src="./img/qrcode.png" width="80%"></center></figure>
+
+<figure><center><img src="./img/example.png" width="80%"></center></figure>
+
 ## Tutorial ##
 
 ### Step 1. Got A LINE Bot API devloper account ###
