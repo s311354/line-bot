@@ -26,6 +26,8 @@ Log in/Sing Up to the [Render CLI](https://render.com). Create a Blueprints for 
 
 Then, use it to create, update, and connect all your services at once, with automatic syncing of resources.
 
+<Note>. The free instance will spin down with inactivity, which can delay requests by 50 seconds or more.
+
 ### Step 3. Verify webhook URL ###
 
 Go to Messaging API tab for the channel you created in the Prepare a Messaging API channel section. Click Verify in Webhook URL to check that webhook is working. 
