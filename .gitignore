@@ -1,0 +1,15 @@
+# .gitignore
+
+# Ignore the .env file to keep sensitive information out of version control
+.env
+
+# Ignore Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.so
+*.egg-info/
+dist/
+build/
+*.egg
